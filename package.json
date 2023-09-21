@@ -1,0 +1,14 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/joyzinhw/chat-websket.git",
+  "author": "joyzinhw <joycemouraifpi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+ 
+  }
+}
