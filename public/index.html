@@ -41,7 +41,6 @@ $('#chat').submit(function(event){
         };
 
 		renderMessage(messageObject);
-		
         socket.emit('sendMessage', messageObject);
     }
 });
